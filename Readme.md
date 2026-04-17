@@ -1,24 +1,22 @@
-# 👗 Fashion Web
+# 👗 Fasion Web
 
-This is a clothing retailer website project that I created using HTML, CSS, and JavaScript.  
-The website showcases clothing products, an About Us section, and a modern fashion UI design.
+This is my clothing retailer website project where I created a modern fashion 
+website using HTML, CSS and JavaScript.
 
----
+## Project Structure
 
-## 📁 Project Structure
+```
 Fasion-Web/
-├── Index.html Main homepage
-├── Aboutus.html About Us page
-├── pro.html Products page
-├── style.css Main stylesheet
-├── Java.js JavaScript interactions
-└── IMG/ Images, logos, and assets
+├── Index.html          # Main homepage
+├── Aboutus.html        # About Us page
+├── pro.html            # Products page
+├── style.css           # Main stylesheet
+├── Java.js             # JavaScript interactions
+└── IMG/                # Images, logos, and assets
+```
 
-
----
-
-## ✨ Features
-
+## Features
+```
 - Responsive navigation menu  
 - Modern fashion UI design  
 - Product showcase section  
@@ -26,15 +24,13 @@ Fasion-Web/
 - Boxicons icons support  
 - Simple and clean layout  
 
----
-
+```
 ## 🛠️ Technologies Used
-
+```
 - HTML5  
 - CSS3  
 - JavaScript  
-
----
+```
 
 ## 🚀 How to Run
 
