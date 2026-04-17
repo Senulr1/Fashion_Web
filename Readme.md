@@ -40,9 +40,11 @@ Fasion-Web/
 
 This is a static website, so no installation is required.
 
-1. Clone the repository  
-```bash
-git clone https://github.com/Senulr1/Fashion_Web.git
+1. **Clone the repository:**
+   ```bash
+   git clone [git clone https://github.com/Senulr1/Fashion_Web.git]
+   ```
+   *(Alternatively, you can download the project as a ZIP file and extract it).*
 
 Open the project folder
 Navigate to the cloned folder on your computer.
